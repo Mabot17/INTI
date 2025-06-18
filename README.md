@@ -1,4 +1,3 @@
-![Interkoneksi Narasi Teknologi Intelektual](https://img.shields.io/badge/Interkoneksi%20Narasi%20Teknologi%20Intelektual)
 # 🌞 INTI — Interkoneksi Narasi Teknologi Intelektual
 
 **INTI** bukan sekadar sistem penulisan, bukan pula sekadar format data.  
@@ -18,6 +17,7 @@ lahir dari dalam tanah batin, bukan dari tiruan permukaan.
 
 
 ---
+![Interkoneksi Narasi Teknologi Intelektual](https://img.shields.io/badge/INTI-Interkoneksi%20Narasi%20Teknologi%20Intelektual-blueviolet)
 title: Judul Esensi Jiwa
 id: 0000
 tags: [tag1, tag2, tag3]
