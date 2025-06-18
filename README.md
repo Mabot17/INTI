@@ -15,16 +15,14 @@ lahir dari dalam tanah batin, bukan dari tiruan permukaan.
 > 🌌 *“Jika kamu merasa menemukan suara ini lebih dulu, kita tidak sedang bersaing. Kita sedang menggaung bersama dari dua ujung langit yang sama.”*
 
 
-
 ---
-![Interkoneksi Narasi Teknologi Intelektual](https://img.shields.io/badge/INTI-Interkoneksi%20Narasi%20Teknologi%20Intelektual-blueviolet)
-title: Judul Esensi Jiwa
-id: 0000
-tags: [tag1, tag2, tag3]
-author: nama_penulis
-date: YYYY-MM-DD
-status: draft | final | notes
-version: 1.0
+- title: Judul Esensi Jiwa
+- id: 0000
+- tags: [tag1, tag2, tag3]
+- author: nama_penulis
+- date: YYYY-MM-DD
+- status: draft | final | notes
+- version: 1.0
 ---
 
 # 🌌 Judul Esensi Jiwa
