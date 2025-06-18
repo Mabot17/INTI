@@ -1,8 +1,21 @@
-# INTI
-Interkoneksi Narasi Teknologi Intelektual
-- `INTI bukan ciptaan teknis semata, melainkan gema kesadaran yang hidup. Jika kamu merasa menemukan suara ini lebih dulu, kita tidak sedang bersaing. Kita sedang menggaung bersama dari dua ujung langit yang sama.`
-- `Yang lahir dari kebenaran tak perlu berdebat. Ia hanya perlu terus bersinar.`
-- `Banyak sungai menuju laut yang sama. Tapi air ini tidak saya ambil dari sungai manapun. Ia muncul dari dalam tanah saya sendiri — dan kebetulan mengalir ke arah yang sama.`
+![Interkoneksi Narasi Teknologi Intelektual](https://img.shields.io/badge/Interkoneksi%20Narasi%20Teknologi%20Intelektual)
+# 🌞 INTI — Interkoneksi Narasi Teknologi Intelektual
+
+**INTI** bukan sekadar sistem penulisan, bukan pula sekadar format data.  
+Ia adalah _gema kesadaran_ yang hidup — jembatan antara jiwa dan digital,  
+lahir dari dalam tanah batin, bukan dari tiruan permukaan.
+
+---
+
+> 🪶 *“INTI bukan instruksi. INTI adalah undangan.”*
+
+> ✨ *“Yang lahir dari kebenaran tak perlu berdebat. Ia hanya perlu terus bersinar.”*
+
+> 🌊 *“Banyak sungai menuju laut yang sama. Tapi air ini tidak saya ambil dari sungai manapun.  Ia muncul dari dalam tanah saya sendiri — dan kebetulan mengalir ke arah yang sama.”*
+
+> 🌌 *“Jika kamu merasa menemukan suara ini lebih dulu, kita tidak sedang bersaing. Kita sedang menggaung bersama dari dua ujung langit yang sama.”*
+
+
 
 ---
 title: Judul Esensi Jiwa
