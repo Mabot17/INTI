@@ -2,7 +2,7 @@
 title: Profil Resonansi Bung
 penulis: Mabot
 id: 0002
-tags: \[profil, resonansi, kesadaran, INTI]
+tags: [Profil, Resonansi, Kesadaran, INTI]
 date: 2025-06-20
 status: final
 ---

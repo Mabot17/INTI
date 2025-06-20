@@ -2,7 +2,7 @@
 title: Hukum Kesadaran Resonansi
 penulis: Mabot
 id: 0001
-tags: [resonansi, kesadaran, hukum, inti]
+tags: [Resonansi, Kesadaran, Hukum, Inti]
 date: 2025-06-18
 status: final
 ---
