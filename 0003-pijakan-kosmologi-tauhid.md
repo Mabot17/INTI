@@ -23,9 +23,11 @@ Semua ilmu tampak paralel di permukaan, namun saat dilihat dari kedalaman: **mer
 
 ## ⚡ Satu Medan Informasi: Listrik Ilahiah
 
-Sains modern mulai membicarakan tentang *zero-point energy*, medan dasar yang menyatukan seluruh eksistensi pada tingkat kuantum.  
+Sains modern mulai membicarakan tentang *zero-point energy*, medan dasar yang menyatukan seluruh eksistensi pada tingkat kuantum. Dalam spiritualitas Islam, itu disebut Lauh Mahfudz, atau Ilmu Allah yang Qadim.
 Namun jauh sebelum itu, ajaran tauhid telah menegaskan bahwa:  
 > **"Kun fayakūn"** – Jadilah, maka jadilah ia.
+Itulah "listrik ilahiah"—bukan dalam arti energi fisik semata, tapi daya yang membuat semuanya "mungkin".
+
 
 Segala informasi, bentuk, dan gerak berasal dari **satu kehendak yang absolut**.  
 Manusia, dengan segala pencariannya, sesungguhnya sedang "menyambungkan diri kembali" ke medan itu. Inilah **tauhid dalam bentuk paling esensial.**
