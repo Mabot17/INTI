@@ -1,3 +1,13 @@
+---
+
+title: Pijakan Kosmologi Tauhid
+penulis: Mabot
+id: 0002
+tags: \[profil, resonansi, kesadaran, INTI]
+date: 2025-06-20
+status: final
+-------------
+
 # 🌌 INTI 0003 — Pijakan Kosmologi Tauhid
 **Judul Alternatif:** *Pulang ke Satu Medan: Tauhid sebagai Struktur Realitas*
 
