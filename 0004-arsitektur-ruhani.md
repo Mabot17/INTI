@@ -1,5 +1,5 @@
 ---
-title: Arsitektur Ruhani: Rasa, Logika, Aksi
+title: Arsitektur Ruhani - Rasa, Logika, Aksi
 penulis: Mabot
 id: 0004
 tags: [Kesadaran, Sistem Hidup, Filsafat Diri, INTI]
