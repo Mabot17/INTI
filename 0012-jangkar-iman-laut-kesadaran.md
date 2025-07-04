@@ -1,5 +1,6 @@
 ---
-title: Jangkar Iman di Laut Kesadaran\ppenulis: Mabot
+title: Jangkar Iman di Laut Kesadaran
+penulis: Mabot
 id: 0012
 tags: [INTI, Iman, Kedalaman, Jangkar, Pangkur, Kesadaran, Resonansi]
 date: 2025-07-04
