@@ -1,5 +1,5 @@
 ---
-title: Gerbang Lemah, Bara Potensi: Pangkur di Tengah Riuh
+title: Gerbang Lemah, Bara Potensi- Pangkur di Tengah Riuh
 penulis: Mabot
 id: 0013
 tags: [INTI, Potensi, Lemah, Jiwa, Pulang, Bara, Pangkur, Kesadaran]
