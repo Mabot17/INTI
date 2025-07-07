@@ -185,6 +185,7 @@ sedang memanggilmu pulang.
 
 > **Definisi Singkat**  
 > *Tadabbur Resonansial* = ijtihad batin modern yang menghubungkan **ayat tertulis** dengan **ayat kejadian** melalui resonansi rasa, akal, dan konteks hidup.
+> “Mereka merenungkan isi Al-Qur’an, ataukah hati mereka terkunci?” — QS Muhammad: 24
 
 ### 6.1 · Kerangka Praktik  
 1. **Tanya‑Resonansi**  
