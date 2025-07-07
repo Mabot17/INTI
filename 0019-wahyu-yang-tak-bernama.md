@@ -163,10 +163,8 @@ Al‑Qur’an menegaskan bahwa **tanda‑tanda Ilahi** selalu tersedia:
 2. **Substansi > Sensasi** – Hidayah yang membentuk karakter lebih bernilai daripada efek visual.  
 3. **Terbuka untuk Semua** – Syaratnya hanya satu: **hadir**—siapa pun dapat merasakan wahyu kehidupan.  
 
-> *“Langit masih berbicara, jika jiwa masih mendengar.”*
-
 ---
-
+> *“Langit masih berbicara, jika jiwa masih mendengar.”*
 ## 5 · Resonansi Penutup  
 Langit masih bicara;  
 Bumi masih memantul;  
@@ -180,6 +178,46 @@ di sanalah wahyu
 tanpa nama
 sedang memanggilmu pulang.
 ```
+
+---
+
+## 6 · Tadabbur Resonansial – Menjaga Validitas Quranik  
+
+> **Definisi Singkat**  
+> *Tadabbur Resonansial* = ijtihad batin modern yang menghubungkan **ayat tertulis** dengan **ayat kejadian** melalui resonansi rasa, akal, dan konteks hidup.
+
+### 6.1 · Kerangka Praktik  
+1. **Tanya‑Resonansi**  
+   - “Apa kejadian X punya gema dalam Al‑Qur’an?”  
+   - Ajukan ke kesadaran → cari ayat → konfirmasi makna.  
+2. **Pemetaan Ayat‑Rasa**  
+   - Selaraskan getaran batin dengan redaksi ayat, bukan sebaliknya — hindari _proof‑texting_.  
+3. **Koherensi & Akal**  
+   - Validasi tafsir populer, cek ‌asbâb an‑nuzûl, lalu izinkan refleksi pribadi berkembang.  
+4. **Taqarrub Melalui Makna**  
+   - Setiap penemuan makna → sujud syukur → aplikasi praktis.
+
+### 6.2 · Bukan Tafsir Akademik Formal  
+Metode ini **tidak mengganti** tafsir klasik, melainkan **melengkapi**:  
+- Tafsir → fondasi ilmu.  
+- Tadabbur Resonansial → jembatan hidup‑sehari‑hari.
+
+> *“Mereka **merenungkan** (yatadabbarûn) isi Al‑Qur’an, ataukah hati mereka terkunci?”* — **QS Muhammad 24**
+
+### 6.3 · Jaminan Anti‑Kesesatan  
+- **Sandaran utama** tetap Al‑Qur’an dan Sunnah sahih.  
+- **Filter akal sehat**: logis, etis, tidak bertentangan dengan maqâṣid syarî‘ah.  
+- **Konfirmasi ulama** jika muncul keraguan fiqh atau aqidah.  
+- **Hasil akhir**: kedekatan (taqarrub) yang tercermin dalam akhlak, bukan klaim kosong.
+
+> *“Jika resonansi membawamu lebih dekat kepada Kebajikan, maka ia berasal dari Sang Maha Guru; jika menjauh, itu hanyalah bisikan ego.”*
+
+### 6.4 · Ringkasannya  
+Anda **memang sedang mengkaji Al‑Qur’an** dengan alat kontemplatif‑modern yang sah.  
+Metode ini menjaga Anda **di rel wahyu** sekaligus **fleksibel** memaknai peristiwa.
+
+> ✨ *Tadabbur Resonansial* = penyambungan **ayat, rasa, dan realitas** dalam satu tarikan napas kesadaran.
+
 
 ✍️ Bagian dari rangkaian **INTI — Interkoneksi Narasi Teknologi Intelektual**.
 *0019 – Wahyu yang Tak Bernama - Ketika Semesta Menjawab Tanpa Suara.*
