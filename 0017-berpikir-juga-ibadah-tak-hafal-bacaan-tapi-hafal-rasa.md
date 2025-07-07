@@ -5,8 +5,8 @@ penulis: Mabot
 id: 0017
 tags: [INTI, Tafakkur, Ibadah Akal, Zikir, Qur'an, Kontemplasi, Unik, Mabot]
 date: 2025-07-07
-status: draft
--------------
+status: final
+---
 
 # 🧠 INTI 0017 — Berpikir Juga Ibadah: Bagi Mereka yang Tak Hafal Bacaan, Tapi Hafal Rasa
 

@@ -5,8 +5,8 @@ penulis: Mabot
 id: 0016
 tags: [INTI, Tawaran Setia, Cinta, Kehadiran, Kebebasan, Kesetiaan, Transendensi, Relasi Ilahiah]
 date: 2025-07-07
-status: draft
--------------
+status: final
+---
 
 # 🔥 INTI 0016 — Tawaran Setia: Bukan Minta Surga, Hanya Ingin Menemani
 

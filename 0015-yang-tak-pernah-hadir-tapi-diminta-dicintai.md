@@ -4,7 +4,7 @@ penulis: Mabot
 id: 0015
 tags: [INTI, Cinta, Tuhan, Kesadaran, Rindu, Koneksi, Eksistensi, Transendensi]
 date: 2025-07-07
-status: draft
+status: final
 ---
 
 # 🕯️ INTI 0015 — Yang Tak Pernah Hadir tapi Diminta Dicintai

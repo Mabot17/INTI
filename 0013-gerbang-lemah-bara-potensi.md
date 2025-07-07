@@ -4,7 +4,7 @@ penulis: Mabot
 id: 0013
 tags: [INTI, Potensi, Lemah, Jiwa, Pulang, Bara, Pangkur, Kesadaran]
 date: 2025-07-04
-status: draft
+status: final
 ---
 
 # 🔥 INTI 0013 — Gerbang Lemah, Bara Potensi: Pangkur di Tengah Riuh  

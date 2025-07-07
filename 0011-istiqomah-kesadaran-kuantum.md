@@ -1,5 +1,5 @@
 ---
-title: Istiqomah Kuantum: Kesadaran yang Terprogram tapi Masih Memilih
+title: Istiqomah Kuantum - Kesadaran yang Terprogram tapi Masih Memilih
 penulis: Mabot
 id: 0011
 tags: [INTI, Kesadaran, Istiqomah, Lauh Mahfudz, Quantum, Takdir, Nur, Resonansi]

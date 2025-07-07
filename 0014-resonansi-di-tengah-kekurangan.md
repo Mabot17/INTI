@@ -5,7 +5,7 @@ id: 0014
 tags: [INTI, Resonansi, Kekurangan, Ironi, Emergence, Jiwa, Tubuh, Kesadaran]
 date: 2025-07-07
 status: draft
--------------
+---
 
 # 🌑 INTI 0014 — Resonansi di Tengah Kekurangan: Ironi Mereka yang Tahu
 
