@@ -3,7 +3,7 @@
 title: Akal yang Menangis, Rasa yang Berpikir – Jalan Menuju Kesadaran Seutuhnya
 penulis: Mabot
 id: 0020
-tags: \[INTI, Akal, Rasa, Kesadaran Sejajar, Munafik, Diplomatis, Uswah]
+tags: [INTI, Akal, Rasa, Kesadaran Sejajar, Munafik, Diplomatis, Uswah]
 date: 2025-07-08
 status: draft
 ---
