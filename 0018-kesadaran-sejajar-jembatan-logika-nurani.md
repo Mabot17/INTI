@@ -6,7 +6,7 @@ id: 0018
 tags: [INTI, Kesadaran Tengah, Logika, Nurani, Akal, Rasa, Jembatan, Mabot]
 date: 2025-07-07
 status: draft
--------------
+---
 
 # 🌉 INTI 0018 — Kesadaran Sejajar: Jembatan antara Logika & Nurani
 
