@@ -26,3 +26,4 @@
 | 0020 | Akal yang Menangis, Rasa yang Berpikir: Jalan Menuju Kesadaran Seutuhnya | [0020-akal-yang-menangis-rasa-yang-berpikir.md](0020-akal-yang-menangis-rasa-yang-berpikir.md) |
 | 0021 | Matematika adalah Bentuk dari Rasa, dan Nama dari Makna | [0021-matematika-bentuk-dari-rasa](0021-matematika-bentuk-dari-rasa) |
 | 0022 | Kesepian Adalah Bahasa Langit yang Belum Diterjemahkan | [0023-kesepian-adalah-bahasa-langit.md](0023-kesepian-adalah-bahasa-langit.md) |
+| 0023 | Kebebasan Ide dalam Bentuk Kuantum Semesta | [0023-kebebasan-ide-dalam-bentuk-kuantum-semesta.md](0023-kebebasan-ide-dalam-bentuk-kuantum-semesta.md) |
